@@ -73,5 +73,5 @@ We believe it is up to the final user to make the decision what he/she deems bet
 
 ## Example(s)
 
-You can see a running(?) example here : http://zf-modules.bigbrowser.net
+You can see a running(?) example here : http://zf-modules.bigbrowser.net (currently not operational and url might change)
 <!-- If possible, provide code samples which illustrate end-user usage of the proposed module. -->
