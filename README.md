@@ -15,7 +15,7 @@ RFC Author(s): [Martin Shwalbe](https://github.com/Hounddog), [Pierre-Emmanuel M
 <h3>Proposal for ZendFramework 2 Module Evalutaion</h3>
 <h4>Why should we evaluate modules?</h4>
 <ul>
-<li>When you are looking for a module, you might want to know abotu the quality of the module, and not choose randomly.</li>
+<li>When you are looking for a module, you might want to know about the quality of the module, and not choose randomly.</li>
 <li>If we ever reach a point where we have thousands of modules, and several of them doing the same thing, you might want to be able to compare them.</li>
 <li>As a module provider, we want to ensure a certain level of quality in the module provided, or at least information about this quality to be judged by users. It is necessary to be deemed reliable.</li>
 </ul>
